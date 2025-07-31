@@ -7,4 +7,3 @@ eval_results/
 eval_data/
 *.egg-info/
 .env
-message_tool.log
